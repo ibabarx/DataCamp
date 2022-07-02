@@ -1,0 +1,17 @@
+"""
+
+    1. With the strings in countries and capitals, create a dictionary called europe with 4 key:value pairs. Beware of capitalization! Make sure you use 
+       lowercase characters everywhere.
+    2. Print out europe to see if the result is what you expected.
+
+"""
+
+# Definition of countries and capital
+countries = ['spain', 'france', 'germany', 'norway']
+capitals = ['madrid', 'paris', 'berlin', 'oslo']
+
+# From string in countries and capitals, create dictionary europe
+europe = {'spain':'madrid', 'france':'paris', 'germany':'berlin', 'norway':'oslo'}
+
+# Print europe
+print(europe)
